@@ -1,0 +1,28 @@
+.jeden
+{
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    letter-spacing: 2px;
+}
+
+.dwa
+{
+    background-color: greenyellow;
+    border: 1px black solid;
+    letter-spacing: 2px;
+}
+
+.trzy
+{
+    background-color: blueviolet;
+    border: 1px black solid;
+    letter-spacing: 2px;
+}
+
+.nag
+{
+    background-color: cyan;
+    border: 1px  black solid;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
